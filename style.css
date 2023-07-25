@@ -1,0 +1,212 @@
+.card-body{
+font: bold;
+}
+
+
+#logo{
+    width: 198.07px;
+}
+
+.collapse{
+    position: relative;
+    margin-left: 700px;
+    gap: 10px;
+}
+
+
+.navbar-nav{
+    padding:10px ;
+}
+
+.navbar-nav li{
+    margin: 5px;
+    gap: 20px;
+}
+
+.button {
+    width: 150px;
+    height: 43px;
+    position: relative;
+    top: 8px;
+    
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+      }
+ 
+.nav-item{
+    font-size: 20px;
+    gap: 50px;
+    
+}
+
+header{
+    
+    height: 576px;
+    background: #F0FFF0;
+
+    
+  
+
+    }
+
+
+.card1{
+    margin-top: 15%;
+    width: 405px;
+    height: 140px;
+   
+}
+
+.card2{
+    margin-top: 10%;
+   
+    
+}
+
+.header-p-color{
+    color:#FD511A;
+;
+}
+
+.text-color{
+    color: #21B573;
+   
+}
+
+.body{
+  
+    width: 220px;
+    height: 220px;
+    
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 50px;
+    background: #e3f6eb;
+
+
+}
+
+#top{
+    margin-top: 100px;
+    align-items: center;
+   
+}
+
+
+.body img{
+ width: 80px;
+  
+}
+
+
+
+.body1 img{
+    width: 331px;
+    height: 234px;
+}
+
+.body1{
+    width: 370px;
+    height: 483px;
+    padding: 20px;
+}
+.footicon i{
+    position: relative;
+    top: 23px;
+}
+
+.footicon p{
+    position: relative;
+    margin-left: 25px;
+    
+}
+
+.footicon2{
+    position: relative;
+    margin-left: 220px;
+    top: -50px;
+
+}
+
+.footicon2 i{
+    position: relative;
+    margin-right: 20px ;
+    top: 12px;
+}
+
+.footicon2 p{
+    position: relative;
+    margin-left: 30px;
+    top: -12px;
+}
+
+.down{
+    
+    height: 300px;
+   
+    align-items: center;
+    
+    position: relative;
+    margin-left: 100px;
+    margin: 100px;
+   
+}
+
+.down img{
+    width: 120px;
+    height: 120px;
+    position: relative;
+    margin-left: 130px;
+}
+
+.down p{
+    width: 580px;
+    height: 90px;
+    position: relative;
+    margin-left: -370px; 
+    top: 15px;
+}
+
+section{
+    max-width: 1440px;
+    height:369px ;
+    background: #282531;
+    ;
+}
+
+.body3 h1{
+    color: white;
+}
+
+.change {
+    width: 1600px;
+    height: 379px;
+    color: white;
+    background-color: #282531;
+   
+    
+    
+}
+
+.footer-p{
+    width: 364px;
+    height: 60px;
+    position: relative;
+    top: 100px;
+}
+
+#direk{
+
+    height: 181px;
+    position: relative;
+    top: 70px;
+
+}
+
+.coppyright{
+    position: relative;
+    top: 160px;
+}
